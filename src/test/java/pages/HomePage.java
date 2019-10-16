@@ -11,7 +11,7 @@ import org.openqa.selenium.support.PageFactory;
 import utility.Helper;
 
 public class HomePage {
-	
+	// Just added this line //
 	@FindBy(xpath="") List<WebElement> menus;
 	@FindBy(xpath="") List<WebElement> subMenus;
 	WebDriver driver;
